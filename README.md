@@ -1,2 +1,2 @@
 # e-signature-app
-e-signature exercise
+e-signature app exercise using general styling in React and useState.
